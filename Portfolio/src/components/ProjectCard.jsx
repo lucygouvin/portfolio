@@ -1,13 +1,13 @@
-export default function ProjectCard() {
+export default function ProjectCard({project}) {
   return (
     <div className="project-card">
-      <img className="project-image" src="./sample_project.png"></img>
+      <img className="project-image" src={project.image}></img>
       <div className="project-details">
-        <p className="project-title">Project Title</p>
-        <p className="project-description">Project Description</p>
+        <p className="project-title">{project.projectName}</p>
+        <p className="project-description">{project.projectDescription}</p>
         <div className="project-button-group">
-          <button>Deployed Site</button>
-          <button>GitHub</button>
+          <a href = {project.deployedLink}><button>Deployed Site</button></a>
+          <a href = {project.githubLink}><button>GitHub</button></a>
         </div>
       </div>
     </div>
