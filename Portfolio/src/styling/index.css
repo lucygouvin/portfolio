@@ -185,6 +185,12 @@ ul {
 }
 .skill-img{
     width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+#resume-link{
+    color: var(--light)
 }
 
 .contact-group{
