@@ -69,7 +69,7 @@ export default function Projects() {
             image: "./projects/tech_blog.png",
             projectName: "Tech Blog",
             projectDescription:
-              "Simple blog example featuring user accounts, posts, comments and conditional content depending on user state.",
+              "Simple blog featuring user accounts, posts, comments and conditional content depending on user state.",
             deployedLink:
               "https://immense-crag-45111-1f41768257e1.herokuapp.com/",
             githubLink:
@@ -105,7 +105,7 @@ export default function Projects() {
             image: "./projects/code_quiz.png",
             projectName: "Code Quiz",
             projectDescription:
-              "Interactive coding quiz that tracks time spent on each question, calculates score, and updates high score leaderboard.",
+              "Interactive quiz that tracks time spent on each question, calculates score, and updates high score leaderboard.",
             deployedLink:
               "https://lucygouvin.github.io/code-quiz/",
             githubLink:
