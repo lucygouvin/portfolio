@@ -1,8 +1,8 @@
-export default function SkillIcon() {
+export default function SkillIcon({icon}) {
   return (
     <>
       <div className="skill-icon">
-        <img className="skill-img" src="./sample_icon.png"></img>
+        <img className="skill-img" src={icon}></img>
       </div>
     </>
   );
