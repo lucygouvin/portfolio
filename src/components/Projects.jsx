@@ -40,7 +40,7 @@ export default function Projects() {
               "github.com/lucygouvin/grapevine",
           }}
         />
-         <ProjectCard
+         {/* <ProjectCard
           project={{
             image: "/cookbookmark.png",
             projectName: "Venn Words",
@@ -51,7 +51,7 @@ export default function Projects() {
             githubLink:
               "",
           }}
-        />
+        /> */}
         <ProjectCard
           project={{
             image: "./projects/weather_dashboard.png",
