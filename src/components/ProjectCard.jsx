@@ -7,7 +7,7 @@ export default function ProjectCard({project}) {
         <p className="project-description">{project.projectDescription}</p>
         <div className="project-button-group">
           <a href = {project.deployedLink}><img src="./website.png"></img></a>
-          <a href = {project.githubLink}><img src="./github_big.png"></img></a>
+          <a href = {project.githubLink}><img src="./github.png"></img></a>
         </div>
       </div>
     </div>
