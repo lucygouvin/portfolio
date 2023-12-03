@@ -1,7 +1,7 @@
 import SkillIcon from "./SkillIcon"
 export default function Skills (){
     return (
-        <div className="container skill-section" id="skills">
+        <div className="skill-section container" id="skills">
         <h2>Skills</h2>
         <div className="skill-group">
             <SkillIcon icon="./skills/html5.png"/>
