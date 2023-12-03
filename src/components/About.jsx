@@ -5,7 +5,7 @@ export default function About() {
       <p className="about-para">
         My passion for software began when I graduated with a B.A. in Digital
         Art from Smith College. Now, I’m a Full Stack Web Developer who loves
-        creating simple, intuitive applications. In my previous professional
+        creating beautiful, user-centered applications. In my previous professional
         life, I was a video game Project Manager leading teams ranging from ten
         to fifty people. I’m known among my teams for my ability to see how all
         the moving pieces come together to create a finished product. My
