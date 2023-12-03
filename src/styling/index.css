@@ -126,6 +126,7 @@ ul li a{
     height: 100%;
     object-fit: cover;
     aspect-ratio: 4/3;
+    overflow: clip;
     
     -webkit-transition: 0.6s ease;
     
@@ -143,7 +144,6 @@ ul li a{
     right: 0;
     padding: 1rem;
     opacity: 0;
-    /* visibility: hidden; */
     transition: 0.45s ease-in-out;
     display: flex;
     flex-direction: column;
