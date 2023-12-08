@@ -3,7 +3,7 @@ export default function Intro() {
     <>
       <div className="intro-group container">
         <div className="profile-pic">
-          <img id="profile" src="./headshot.jpg"></img>
+          <img id="profile" src="./headshot.JPG"></img>
         </div>
         <div className="intro-text">
           <h1>Full Stack Web Developer</h1>
