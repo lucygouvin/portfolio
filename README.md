@@ -7,6 +7,6 @@ On this site you'll find a sampling of my previous projects, as well as links to
 If you like what you see on this site, please don't hestitate to reach out! I'm currently available for full time or contract employment, and I'm alway interested in collaboration. 
 
 Contact information:
-Email: gouvin.lucy@gmail.com
-Phone: (413) 297-3367
+Email: gouvin.lucy@gmail.com </br>
+Phone: (413) 297-3367 </br>
 LinkedIn: https://www.linkedin.com/in/lucy-gouvin
