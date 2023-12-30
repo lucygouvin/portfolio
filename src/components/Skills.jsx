@@ -24,7 +24,7 @@ export default function Skills (){
             <SkillIcon icon="./skills/trello.png"/>
             <SkillIcon icon="./skills/agile.png"/>
         </div>
-        <p>See my <a href="/Gouvin_Lucy_WebDev_Resume_2023.pdf" download="Lucy Gouvin Resume" id="resume-link">resume</a> for more information on my experience and skills.</p>
+        <p>See my <a href="/Lucy_Gouvin_Resume.pdf" download="Lucy Gouvin Resume" id="resume-link">resume</a> for more information on my experience and skills.</p>
         </div>
     )
 }
