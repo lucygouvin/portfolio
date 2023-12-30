@@ -11,9 +11,9 @@ export default function Projects() {
             projectDescription:
               "Add events, invite guests, manage contributions, track RSVPs, and share information all in one app.",
             deployedLink:
-              "https://stark-hamlet-78991-77b45feb1011.herokuapp.com/",
+              "https://partymaster-7e6463aa0df4.herokuapp.com/",
             githubLink:
-              "github.com/Albyhua/PartyMaster",
+              "https://github.com/lucygouvin/PartyMaster-revamp",
           }}
         />
         <ProjectCard
